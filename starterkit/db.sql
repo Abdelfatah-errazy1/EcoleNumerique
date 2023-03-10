@@ -1,0 +1,38 @@
+CREATE Table etablissement (
+  id int PRIMARY KEY auto_increment ,
+  nomEtaFr VARCHAR(150),
+  nomEtaAr VARCHAR(150),
+  adresse VARCHAR(150),
+  ville VARCHAR(150),
+  codeP VARCHAR(10),
+  pays VARCHAR(150) DEFAULT 'maroc',
+  email VARCHAR(50),
+  websiteUrl VARCHAR(150),
+  tel VARCHAR(15),
+  wtspGSM VARCHAR(15),
+  logoURL VARCHAR(150),
+  discriptionEtaFr TEXT,
+  discriptionEtaAr TEXT,
+  nomDirecteur VARCHAR(150),
+  directeurEmail VARCHAR(150),
+  directeurGSM VARCHAR(150)
+);
+CREATE Table centreFormation (
+  id int PRIMARY KEY auto_increment ,
+  nomCenFr VARCHAR(150),
+  nomCenAr VARCHAR(150),
+  adresse VARCHAR(150),
+  ville VARCHAR(150),
+  codeP VARCHAR(10),
+  pays VARCHAR(150) DEFAULT 'maroc',
+  email VARCHAR(50),
+  websiteUrl VARCHAR(150),
+  tel VARCHAR(15),
+  wtspGSM VARCHAR(15),
+  logoURL VARCHAR(150),
+  discriptionECenFr TEXT),
+  discriptionCenAr TEXT,
+  nomDirecteur VARCHAR(150),
+  directeurEmail VARCHAR(150),
+  directeurGSM VARCHAR(150)
+);
