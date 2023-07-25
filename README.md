@@ -2,6 +2,7 @@
 <h1>Ecole Numerique => Madrassiya Raqmiya</h1>
 <h2>diagramme de classe</h2>
 ![diagrame de class](https://github.com/Abdelfatah-errazy1/EcoleNumerique/assets/110500328/70ca7529-4755-4e47-ba7b-f7bc1e52c07d)
+
 <h2>page de login </h2>
 ![page de login](https://github.com/Abdelfatah-errazy1/EcoleNumerique/assets/110500328/dbc8b6e0-87bb-46e1-9d4e-23b96582eb13)
 <h2>page de dashboard </h2>
