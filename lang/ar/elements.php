@@ -1,0 +1,56 @@
+<?php
+
+return [
+    // columns table abonnements
+    '' => '',
+    'abonnement' => 'الاشتراك',
+    'title' => 'عنوان',
+    'description' => 'الوصف',
+    'number_accounts_enseignants' => 'عدد حسابات المعلم',
+    'number_accounts_scolarite' => 'عدد حسابات التعليم',
+    'tarif_vente' => 'سعر البيع',
+    'tarif_promo' => 'سعر الترويج',
+    'liste_des_abonnements' => 'قائمة الاشتراكات',
+    'avatar' => 'الصورة' ,
+    'cin' => 'رقم البطاقة الوطنية' ,
+    'last_name' => 'اسم العائلي' ,
+    'first_name' => 'الاسم الأول' ,
+    'gender' => 'جنس' ,
+    'civility' => 'civilité' ,
+    'date_of_birth' => 'تاريخ الميلاد' ,
+    'title_function' => 'الوظيفة' ,
+    'type' => 'نوع' ,
+    'observation' => 'ملاحظة' ,
+    'phone' => 'هاتف' ,
+    'gsm' => 'جي إس إم' ,
+    'fax' => 'فاكس' ,
+    'address' => 'عنوان' ,
+    'postal_code' => 'رمز بريدي' ,
+    'city' => 'مدينة' ,
+    'country' => 'دولة' ,
+    'email' => 'بريد إلكتروني' ,
+    'web_site' => 'موقع إلكتروني' ,
+    'man' => 'رجل' ,
+    'woman' => 'امرأة' ,
+    'celibataire' => 'عازب' ,
+    'marie' => 'متزوج' ,
+    'divorce' => 'مطلق' ,
+    'veuf' => 'أرمل' ,
+
+    'liste_des_directeurs' => 'قائمة المديرين' ,
+    'name_fr' => 'الاسم بالفرنسي',
+    'name_ar' => 'الاسم بالعربي' ,
+    'directeur' => 'مدير' ,
+    'description_ar' => 'الوصف بالعربي',
+    'description_fr' => 'الوصف بالفرنسي',
+    'liste_des_etablissements' => 'لائحة المؤسسات',
+    'etablissement' => 'مؤسسة',
+    'gestion_des_etablissement' => 'إدارة المنشأة',
+    'gestion_des_abonnement' => 'إدارة الاشتراك',
+
+    'liste_des_centres_de_Formations' => 'قائمة مراكز التدريب',
+
+    'Centre_de_Formation' => 'مركز التدريب',
+
+
+];

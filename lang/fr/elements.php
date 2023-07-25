@@ -1,0 +1,56 @@
+<?php
+
+return [
+
+    '' => '',
+    'abonnement' => 'abonnement',
+    'title' => 'titre',
+    'description' => 'description',
+    'number_accounts_enseignants' => 'nombre comptes enseignants',
+    'number_accounts_scolarite' => 'nombre comptes scolarite',
+    'tarif_vente' => 'tarif vente',
+    'tarif_promo' => 'tarif promo',
+    'liste_des_abonnements' => 'Liste des abonnements',
+    'avatar' => 'avatar' ,
+    'cin' => 'cin' ,
+    'last_name' => 'nom de famille' ,
+    'first_name' => 'prénom' ,
+    'gender' => 'genre' ,
+    'civility' => 'civilité' ,
+    'date_of_birth' => 'date de naissance' ,
+    'title_function' => 'titre fonction' ,
+    'type' => 'type' ,
+    'observation' => 'observation' ,
+    'phone' => 'téléphone' ,
+    'gsm' => 'GSM' ,
+    'fax' => 'fax' ,
+    'address' => 'adresse' ,
+    'postal_code' => 'Code Postal' ,
+    'city' => 'ville' ,
+    'country' => 'pays' ,
+    'email' => 'e-mail' ,
+    'web_site' => 'site Internet' ,
+    'man' => 'homme' ,
+    'woman' => 'femme' ,
+    'celibataire' => 'célibataire' ,
+    'marie' => 'marié' ,
+    'divorce' => 'divorcé' ,
+    'veuf' => 'veuf' ,
+
+    'liste_des_directeurs' => 'liste des directeurs' ,
+    'name_fr' => 'Le nom (français)',
+    'name_ar' => 'Le nom (arabe)' ,
+    'directeur' => 'Directeur' ,
+
+    'description_ar' => 'Descriptif en arabe',
+    'description_fr' => 'Descriptif en français',
+    'liste_des_etablissements' => 'Liste des établissements',
+    'etablissement' => 'établissement',
+    'gestion_des_etablissement' => 'Gestion des Établissement',
+    'gestion_des_abonnement' => 'Gestion des Abonnements',
+
+    'liste_des_centres_de_Formations' => 'Liste des centres de Formations',
+    'Centre_de_Formation' => 'Centre de Formation',
+
+
+];
