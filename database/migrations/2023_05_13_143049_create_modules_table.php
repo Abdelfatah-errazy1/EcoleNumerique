@@ -20,7 +20,7 @@ return new class extends Migration
             $table->foreignId('filliereniveau')
             ->constrained()
             ->references('id')
-            ->on('filliereNiveau')
+            ->on('filliereniveau')
             ->cascadeOnUpdate()->cascadeOnDelete();
             $table->string('nomFr',100);
             $table->string('nomAr',100)->nullable();
